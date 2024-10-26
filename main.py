@@ -59,7 +59,7 @@ with header.container(border=True):
     with col2:
         st.markdown('##### AI-based Message Extractor')
         st.markdown("*version 1.0.0*")
-        st.markdown('*release on Oct 26, 2024*')
+        st.markdown('*release on Oct 27, 2024*')
 
 with input_text.container(border=True):
     message = st.text_area(label='**Input message**',
